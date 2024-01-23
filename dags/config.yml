@@ -1,0 +1,16 @@
+api_g:
+  url: https://omgvamp-hearthstone-v1.p.rapidapi.com/cards
+  headers: {
+    "X-RapidAPI-Key": "b3c49bc6camshf773d36a18e2923p1390abjsn585de42e1736",
+    "X-RapidAPI-Host": "omgvamp-hearthstone-v1.p.rapidapi.com"
+    }
+postgresql:
+  hostname: '192.168.1.133'
+  # 'localhost'
+  username: 'hurin19'
+  password: '1947'
+  db_name: 'blizhs'
+  port: '5432'
+telegram:
+  token: "6408080991:AAFMscCvxxMQem_sa0SG0YJBz19EM7eew4U"
+  chat_id: "181719421"
